@@ -3,7 +3,7 @@ import ReactDom from 'react-dom';
 import SearchBar from './search_bar.js';
 import YtSearch from 'youtube-api-search';
 import VideoList from './video_list.js';
-const API_KEY = 'AIzaSyDUiZUf-a_I7b1tMEaifU4BfKcEg47Es_4';
+const API_KEY = '**';
 import VideoDetail from './video_detail.js'
 import _ from 'lodash';
 
